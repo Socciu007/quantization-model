@@ -1,0 +1,4 @@
+tensorflow
+matplotlib
+tensorflow_model_optimization
+tf_keras
